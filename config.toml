@@ -1,4 +1,4 @@
-baseurl = "https://mattbird.dev"
+baseurl = "https://merry-melomakarona-5242d1.netlify.app"
 title = "Creative portfolio"
 theme = "hugo-creative-portfolio-theme"
 languageCode = "en-us"
