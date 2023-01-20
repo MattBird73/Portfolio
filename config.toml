@@ -14,8 +14,9 @@ googleAnalytics = ""
   description = "This website will act as an online archive of projects that I have worked on."
   copyright = "&copy;2022 - Matt Bird - Development Portfolio"
   sidebarAbout = [
-    "Hi, my name is Matt. I am a computer games programmer who has spent the past 5 years seeking to further my knowledge and understanding of C# and C++, through a university degree on software development for games and various passion prjects, both solo and with friends.",
-    "Based on the south coast of England, currently living in Southampton."
+    "Hello, welcome to my portfolio! I am a junior software developer with a passion for learning and improving. I find great enjoyment from seeing my ideas turn into a reality.",
+    "If your interested in working with me0, Get in touch!",
+    "Based on the south coast of England, currently living in Brighton."
   ]
   # Contact page
      # Since this template is static, the contact form uses www.formspree.io as a
@@ -29,7 +30,7 @@ googleAnalytics = ""
      # - send a dummy email yourself to confirm your account
      # - click the confirm link in the email from www.formspree.io
      # - you're done. Happy mailing!
-  email = "matt.bird1@virginmedia.com"
+  email = "f/mayzndrz"
 
     # Optional Matomo analytics (formerly piwik)
       # [params.analytics.matomo]

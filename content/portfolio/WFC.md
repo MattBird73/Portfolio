@@ -1,13 +1,13 @@
 +++
+image = "img/portfolio/comingsoon.jpg"
 showonlyimage = false
+date = "2016-11-05T19:44:32+05:30"
+title = "Wave Function Collapse Demo"
 draft = false
-image = "img/portfolio/ipad-air-2.jpg"
-date = "2016-11-05T19:59:22+05:30"
-title = "Name of the work 8"
-weight = 8
+weight = 2
 +++
 
-Fifth abundantly made Give sixth hath. Cattle creature i be don't them.
+My implamentation of a the wave function collapse algorithm, able to generate random 2D game levels based on a pre-determined tile set.
 <!--more-->
 
 Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean.
